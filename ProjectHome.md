@@ -1,0 +1,3 @@
+The project created a protocol that provides the joint operation of the system of terminals, refer to request certain data, and computer workstations, whiich receive the data and sends requests terminals. The system also includes a server that coordinates the work of client terminals and workstations.
+
+Programs work on the protocol described above, is implemented in C for the operating system, GNU\Linux. The operability of programs in other Unix-like systems are not checked (but still possible).
